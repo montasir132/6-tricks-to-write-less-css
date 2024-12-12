@@ -1,0 +1,60 @@
+div{
+    margin: 5% 10%;
+}
+  Background
+/* LONGHAND */
+background-color: #000;
+background- image: url(images/bg.png);
+background- repeat: no-repeat ;
+background-position: left top ;
+/* SHORTHAND */
+background: #000 url(images/bg .png)
+no-repeat left top;
+
+
+Font
+/* LONGHAND */
+font-style: italic ;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+font-family: arial, sans-serif;
+
+/* SHORTHAND */
+font: italic bold 18px/150% Arial, sans-serif;
+
+
+Border
+/* LONGHAND */
+border-width: lpx;
+border-style: solid;
+border-color: #000 ;
+/* SHORTHAND */
+border: 1px solid #000;
+
+Outline
+/* LONGHAND */
+outline-width: lpx;
+outline-style: solid ;
+outline-color: #000 ;
+/* SHORTHAND */
+outline : lpx solid #000;
+
+Margin
+/* LONGHAND */
+margin-top: 10px;
+margin-right: 5px;
+margin-bottom: 1px;
+margin-left: 5px;
+/* SHORTHAND */
+margin: 10px 5px;
+
+Padding
+ /* LONGHAND  */
+padding-top: 10px;
+padding-right: 5px;
+padding-bottom: 10px;
+padding-left: 5px;
+/* SHORTHAND */
+padding: 1px 5px;
+
